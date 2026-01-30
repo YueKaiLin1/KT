@@ -1,2 +1,2 @@
 v2.1.0
-https://github.com/YueKaiLin1/KT/raw/master/led_1.ino.merged.bin
+https://github.com/YueKaiLin1/KT/raw/master/led_1.ino.bin
